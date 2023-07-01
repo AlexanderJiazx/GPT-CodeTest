@@ -44,4 +44,4 @@ while True:
             else:
                 output = str(count) + "(large)"
 
-            print(output)
+            print("output:",output)
